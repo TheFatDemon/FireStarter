@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "de.belu.firestarter"
+        applicationId "de.belu.lol"
         minSdkVersion 17
         targetSdkVersion 22
         versionCode 23
